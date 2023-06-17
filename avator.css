@@ -1,0 +1,15 @@
+.avator{
+    width: 300px;
+    height: 250px;
+    margin: 10px auto;
+    border-radius: 50%;
+    border: 5px solid red;
+    overflow: hidden;
+    
+}  
+.avator > img{
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    object-position: top;
+}
